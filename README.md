@@ -1,4 +1,4 @@
-# Investment Banking transaction Fee calcultor
+# Investment Banking transaction Fee calculator
 
 ## How to run
 
@@ -9,6 +9,7 @@ Run App using main
 src/main/resource/TransactionData.txt
 
 ## output will print in console as
+
 
 Calculated Fees:-
 --------------------------------------------------------------------------------
@@ -56,4 +57,6 @@ HJ	| Mon Nov 04 00:00:00 IST 2013	| Mon Nov 04 00:00:00 IST 2013	| NORMAL	| null
 --------------------------------------------------------------------------------
 HJ	| Sat Nov 30 00:00:00 IST 2013	| Sat Nov 30 00:00:00 IST 2013	| NORMAL	| null	|
 --------------------------------------------------------------------------------
+
+
 
